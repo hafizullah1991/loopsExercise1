@@ -1,18 +1,57 @@
 for(int i= 0; i < 5; i++)
-for (int i=0; i <5; i++)
-for(int i=0; i< 5; i++)
-for (int i=0; i< 5; i++)
-for(int i= 0; i < 5; i++)
-for(int i=0; i< 5; i++)
-for (int i =0; i> 5; i++)
-for(int i=0; i < 4; i++)
-for(int i=0; i< 5; i++)
-for(int i=0; i<3; i++)
-for (int i=0; i<5; i++)
-for (int i =0; i< 5; i++)
+{
+Console.writeLine($"{i}");
+}
+
+for(int i=0; i>5; i++)
+{
+Console.WriteLine($"{i}");
+}
 for(int i=0; i<5; i++)
-for(int i =0; i<5; i++)
-for (int i =0; i<5; i++)
-for (int i=0; i<5; i++)
-for (int i= 0; i<5; i++)
-for(int i =0; i <0; i++)
+{
+Console.Writeline($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WritleLine($"{i}");
+}
+ for(int i=0; i<5; i++)
+{
+Console.Writeline($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}")
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
+for(int i=0; i<5; i++)
+{
+Console.WriteLine($"{i}");
+}
